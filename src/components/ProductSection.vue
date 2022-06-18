@@ -54,7 +54,7 @@
         }
 
         .images{
-            width: 410px;
+            width: 30%;
             height: 515px;
             text-align: left;
             font: normal normal bold 22px/50px Josefin Sans;
