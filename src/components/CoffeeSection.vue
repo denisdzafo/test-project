@@ -91,7 +91,7 @@
 
         .coffee-text{
             text-align: center;
-            font: normal normal bold 36px/52px Barlow Condensed;
+            font: normal normal bold 30px/52px Barlow Condensed;
             letter-spacing: 0px;
             color: #221F20;
             text-transform: uppercase;
