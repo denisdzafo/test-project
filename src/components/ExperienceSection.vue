@@ -136,7 +136,7 @@
 
             .press-text{
                 text-align: center;
-                font: normal normal bold 64px/101px Barlow Condensed;
+                font: normal normal bold 50px/101px Barlow Condensed;
                 letter-spacing: 2.1px;
                 color: #AACBD8;
                 text-transform: uppercase;
